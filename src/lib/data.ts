@@ -6,7 +6,7 @@ export const properties: Property[] = [
     title: "Alpine Glass Chalet",
     slug: "alpine-glass-chalet",
     description:
-      "A striking contemporary chalet perched above Zermatt with unobstructed views of the Matterhorn. Floor-to-ceiling triple-glazed windows, heated stone floors, and a cantilevered terrace with infinity hot tub. Bulthaup kitchen, private ski room, and direct access to the slopes.",
+      "Wake up to the Matterhorn. Triple-glazed walls of glass, heated stone floors, infinity hot tub on a cantilevered terrace, and direct ski-in access.",
     price: 8_500_000,
     address: {
       street: "Obere Mattenstrasse 12",
@@ -46,7 +46,7 @@ export const properties: Property[] = [
     title: "Lakeside Penthouse Zurich",
     slug: "lakeside-penthouse-zurich",
     description:
-      "A rare full-floor penthouse on Zurich's Gold Coast with panoramic views over Lake Zurich and the Alps. Double-height living room, private rooftop terrace, and a chef's kitchen with Gaggenau appliances and Calacatta marble. Concierge and underground parking for three cars.",
+      "The entire top floor is yours. Double-height living room framing Lake Zurich and the Alps, Calacatta marble kitchen, private rooftop terrace, and personal elevator.",
     price: 12_750_000,
     address: {
       street: "Seestrasse 87",
@@ -86,7 +86,7 @@ export const properties: Property[] = [
     title: "Lake Geneva Modern Villa",
     slug: "lake-geneva-modern-villa",
     description:
-      "Architecturally significant lakefront villa on the shores of Lac L\u00E9man with unobstructed water and mountain views. Minimalist design with walls of glass, heated floors throughout, and a private dock. Landscaped gardens descend to the waterfront with an infinity pool.",
+      "Glass, water, mountains \u2014 nothing between them. Minimalist lakefront villa with private dock, infinity pool, and heated floors throughout.",
     price: 9_200_000,
     address: {
       street: "Route de Lausanne 45",
@@ -126,7 +126,7 @@ export const properties: Property[] = [
     title: "Historic Old Town Residence",
     slug: "historic-old-town-residence",
     description:
-      "Meticulously restored 18th-century townhouse in Bern's UNESCO-listed Old Town. Original vaulted ceilings, period sandstone details, and a fully modernized interior with Gaggenau kitchen. Private courtyard garden and rooftop terrace with views over the Aare river.",
+      "Built in 1742. Restored for how you live now. Vaulted ceilings and period sandstone meet a modern Gaggenau kitchen, with a courtyard garden and rooftop Aare views.",
     price: 5_900_000,
     address: {
       street: "Kramgasse 28",
@@ -166,7 +166,7 @@ export const properties: Property[] = [
     title: "Engadin Mountain Estate",
     slug: "engadin-mountain-estate",
     description:
-      "A masterwork of alpine architecture in the Upper Engadin valley, blending local Arven wood and natural stone with contemporary design. Panoramic mountain views, resort-style wellness area with indoor pool and sauna, and a detached guest house. Steps from world-class skiing in St. Moritz.",
+      "Alpine materials, contemporary thinking. Indoor pool, sauna, detached guest house, and world-class skiing steps from the door.",
     price: 14_500_000,
     address: {
       street: "Via Serlas 22",
@@ -206,7 +206,7 @@ export const properties: Property[] = [
     title: "Lugano Waterfront Condo",
     slug: "lugano-waterfront-condo",
     description:
-      "Corner unit in Lugano's most exclusive lakefront residence with sweeping views over Lake Lugano and Monte San Salvatore. Floor-to-ceiling glass, Italian marble throughout, and access to five-star amenities including spa, private beach, and marina berth.",
+      "A corner of Lake Lugano, wrapped in glass. Italian marble throughout, with spa, private beach, and marina berth below.",
     price: 4_800_000,
     address: {
       street: "Riva Albertolli 3, Apt 12",

@@ -21,10 +21,6 @@ export function Hero() {
           <br />
           Perfect Home
         </h1>
-        <p className="mx-auto mt-6 max-w-xl text-lg leading-relaxed text-white/70">
-          Exceptional properties in the world&apos;s most desirable locations.
-          Curated for those who demand the extraordinary.
-        </p>
         <div className="mt-10 flex flex-col items-center gap-4 sm:flex-row sm:justify-center">
           <Link
             href="/listings"
