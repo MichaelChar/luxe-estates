@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "LuxeEstates — Premium Real Estate",
+  title: "xStudios — Premium Real Estate",
   description:
     "Exceptional properties in the world's most desirable locations.",
 };

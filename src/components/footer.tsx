@@ -8,10 +8,10 @@ export function Footer() {
         <div className="grid gap-8 sm:grid-cols-2 lg:grid-cols-4">
           <div>
             <h3 className="text-lg font-semibold tracking-tight">
-              Luxe<span className="text-muted-foreground">Estates</span>
+              x<span className="text-muted-foreground">Studios</span>
             </h3>
             <p className="mt-3 text-sm leading-relaxed text-muted-foreground">
-              Curating exceptional properties for discerning buyers since 2018.
+              Curating exceptional properties for discerning buyers since 2020.
             </p>
           </div>
 
@@ -53,9 +53,9 @@ export function Footer() {
               Contact
             </h4>
             <ul className="mt-3 space-y-2 text-sm text-muted-foreground">
-              <li>hello@luxeestates.com</li>
-              <li>(800) 555-0100</li>
-              <li>Los Angeles, CA</li>
+              <li>m@xStudios.ch</li>
+              <li>+41 44 210 0100</li>
+              <li>Zurich, Switzerland</li>
             </ul>
           </div>
         </div>
@@ -63,7 +63,7 @@ export function Footer() {
         <Separator className="my-8" />
 
         <p className="text-center text-xs text-muted-foreground">
-          &copy; {new Date().getFullYear()} LuxeEstates. All rights reserved.
+          &copy; {new Date().getFullYear()} xStudios. All rights reserved.
         </p>
       </div>
     </footer>

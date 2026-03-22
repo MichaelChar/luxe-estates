@@ -16,9 +16,6 @@ export function Hero() {
 
       {/* Content */}
       <div className="relative z-10 mx-auto max-w-4xl px-6 text-center">
-        <p className="mb-4 text-xs font-semibold uppercase tracking-[0.3em] text-white/60">
-          Premium Real Estate
-        </p>
         <h1 className="text-5xl font-bold leading-[1.1] tracking-tight sm:text-7xl">
           Find Your
           <br />
@@ -42,7 +39,7 @@ export function Hero() {
             href="/contact"
             className={cn(
               buttonVariants({ variant: "outline", size: "lg" }),
-              "border-white/30 bg-transparent text-white hover:bg-white/10"
+              "bg-white text-black hover:bg-white/90"
             )}
           >
             Schedule a Tour
