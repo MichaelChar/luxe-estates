@@ -11,7 +11,7 @@ export function Footer() {
               x<span className="text-muted-foreground">Studios</span>
             </h3>
             <p className="mt-3 text-sm leading-relaxed text-muted-foreground">
-              Curating exceptional properties for discerning buyers since 2020.
+              Curating exceptional properties for discerning buyers since 2008.
             </p>
           </div>
 
